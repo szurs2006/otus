@@ -16,7 +16,7 @@
 - использовать ли NoCode, LowCode или создавать полнофункциональный сервис с нуля;
 
 # Схема
-! [Контекстная схема](https://drive.google.com/file/d/1KEn5hRcnrOz_bENwj41GIZmskwAzj83D/view?usp=drive_link)
+[![Контекстная схема](https://drive.google.com/file/d/1KEn5hRcnrOz_bENwj41GIZmskwAzj83D/view?usp=drive_link)]
 <!--![Контекстная схема](GetHealth-Context.jpg)-->
 ## Варианты подходов
 # 1. Использование NoCode платформы
