@@ -20,7 +20,7 @@
 # 1. SPA + backend из микросервисов
 
 
-![Схема SPA+ backend из микросервисов](https://drive.google.com/file/d/1Zpvxtvm-3rxlneZeTXMFNW0gwnMRPGnw/view?usp=drive_link)
+! [Схема SPA+ backend из микросервисов](https://drive.google.com/file/d/1Zpvxtvm-3rxlneZeTXMFNW0gwnMRPGnw/view?usp=drive_link)
 <!--<img align="left" width="400" height="350" src="https://drive.google.com/uc?export=view&id=<1Zpvxtvm-3rxlneZeTXMFNW0gwnMRPGnw>">-->
 
 Для каждого нового функционала можно реализовывать отдельный микросервис с одной базой данных
@@ -34,7 +34,7 @@
 
 
 # 2. SPA + backend монолит
-![Схема SPA+ backend монолит](https://drive.google.com/file/d/1w5GHJkxO-hkcGFf5Oi0OtgMJCxB4RZe0/view?usp=share_link)
+! [Схема SPA+ backend монолит](https://drive.google.com/file/d/1w5GHJkxO-hkcGFf5Oi0OtgMJCxB4RZe0/view?usp=share_link)
 
 SPA + Монолитный backend + дна база данных 
 
